@@ -3,7 +3,7 @@ import os
 directory = '/home/dannybuntu/Work/walletscrutiny3/walletScrutinyCom/_android'
 output_file = 'tobereviewed.md'
 criteria = {
-    'users': 1000,
+    'users': 5000,
     'meta': ['ok', 'obsolete', 'stale'],
     'verdict': 'wip'
 }
